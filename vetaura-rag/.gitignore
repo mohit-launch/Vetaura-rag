@@ -67,3 +67,6 @@ venv.bak/
 # IDEs
 .vscode/
 .idea/
+
+# Custom Folders
+knowledge_base/

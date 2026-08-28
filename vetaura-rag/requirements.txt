@@ -1,0 +1,7 @@
+playwright
+trafilatura
+beautifulsoup4
+markdownify
+requests
+python-dotenv
+tqdm
